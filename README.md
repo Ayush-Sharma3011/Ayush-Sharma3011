@@ -1,5 +1,5 @@
 <!-- GIF SECTION -->
-<div style="display: flex; justify-content: center; ">
+<div style="display: flex; align-items: center; justify-content: center; ">
     <img src="https://karavang.vercel.app/_next/static/media/hero.41c82709.gif" height="auto" width="auto" />
 </div>
 <br>
