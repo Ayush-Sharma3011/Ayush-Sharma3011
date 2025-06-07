@@ -15,7 +15,7 @@
 - 👋 Hi, I’m @Ayush-Sharma3011
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Backend Web Development
-- 💞️ I’m looking to collaborate on Learners Arc
+- 💞️ I’m looking to collaborate with tech leads
 - 📫 How to reach me sharmaayush300424@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Life is Easy!
